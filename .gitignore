@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+scc/
+data/
+*.h5
+traced_graphs/
+traced_graphs_new/
+figures/
