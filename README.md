@@ -2,7 +2,7 @@
 
 Experiment suite for **ACC++**, a circuit tracing algorithm for mechanistic interpretability of transformer attention heads. ACC++ decomposes attention head firings into upstream contributions using SVD of the bilinear form $W_Q W_K^T$, producing per-prompt circuit graphs that reveal how information flows through the model.
 
-Paper: *"Finding Interpretable Prompt-Specific Circuits in Language Models"*
+Paper: ["Finding Interpretable Prompt-Specific Circuits in Language Models"](https://arxiv.org/abs/2602.13483).
 
 ## Installation
 
