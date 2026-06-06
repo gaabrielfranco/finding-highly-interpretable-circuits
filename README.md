@@ -1,8 +1,8 @@
-# Finding Highly Interpretable Prompt-Specific Circuits in Language Models
+# Finding Interpretable Prompt-Specific Circuits in Language Models
 
 Experiment suite for **ACC++**, a circuit tracing algorithm for mechanistic interpretability of transformer attention heads. ACC++ decomposes attention head firings into upstream contributions using SVD of the bilinear form $W_Q W_K^T$, producing per-prompt circuit graphs that reveal how information flows through the model.
 
-Paper: *"Finding Highly Interpretable Prompt-Specific Circuits in Language Models"*
+Paper: *"Finding Interpretable Prompt-Specific Circuits in Language Models"*
 
 ## Installation
 
@@ -388,7 +388,7 @@ finding-highly-interpretable-circuits/
 
 ```bibtex
 @article{franco2026finding,
-  title={Finding Highly Interpretable Prompt-Specific Circuits in Language Models},
+  title={Finding Interpretable Prompt-Specific Circuits in Language Models},
   author={Franco, Gabriel and Tassis, Lucas M and Rohr, Azalea and Crovella, Mark},
   journal={arXiv preprint arXiv:2602.13483},
   year={2026}
